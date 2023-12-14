@@ -1,4 +1,4 @@
-package com.example.hydroperf;
+/**package com.example.hydroperf;
 
 import android.os.Bundle;
 
@@ -19,7 +19,7 @@ import com.example.hydroperf.databinding.FragmentWelcomeBinding;
  * A simple {@link Fragment} subclass.
  * Use the {@link WelcomeFragment#newInstance} factory method to
  * create an instance of this fragment.
- */
+
 public class WelcomeFragment extends Fragment {
 
     private FragmentWelcomeBinding binding;
@@ -57,3 +57,4 @@ public class WelcomeFragment extends Fragment {
         });
     }
 }
+ */
